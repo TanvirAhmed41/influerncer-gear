@@ -71,11 +71,17 @@ i,
 .ratings i {
   color: gold;
 }
-.products img {
-  width: 300px;
+/* .products img {
+  width: 200px;
+} */
+article{
+  padding-left: 10px;
+  padding-right: 10px;
+  border: 30px solid white;
+  box-shadow: 10px 10px 15px 10px rgb(224, 223, 223);
 }
 .popular-collection {
-  padding-left: 150px;
+  padding-left: 100px;
   padding-right: 60px;
   display: grid;
   justify-content: space-evenly;
